@@ -39,7 +39,7 @@ powerbi/
 
 ├── Superstore_Dashboard.pbix
 
-exports/
+outputs/
 
 ├── dashboard_screenshots/
 
@@ -50,6 +50,8 @@ exports/
 │   ├── operations_view.png
 
 │   └── manager_view.png
+
+├── Superstore Insights & Recommendations.pdf
 
 ## 📊 Dashboard Pages
 
