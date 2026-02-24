@@ -27,6 +27,7 @@ Git & GitHub – version control and project delivery
 ## 📂 Project Structure
 data/
 ├── raw/                # Original dataset
+
 ├── processed/          # Cleaned and transformed data
 
 notebooks/
@@ -45,15 +46,19 @@ exports/
 ## 📊 Dashboard Pages
 
 1️⃣ Executive Overview
+
 High-level KPIs and trends summarizing overall business performance.
 
 2️⃣ Product View
+
 Product and sub-category profitability, discount impact, and margin distribution.
 
 3️⃣ Operations View
+
 Shipping efficiency, delivery delays, and their relationship with returns and profitability.
 
 4️⃣ Manager View
+
 Manager-level performance, return rates, and consistency across regions.
 
 ## 🚀 Key Insights
@@ -77,5 +82,7 @@ Explore dashboard pages using slicers and filters.
 ## 📬 Author
 
 Culbert Orhorhoro
+
 Data Analyst
+
 GitHub: https://github.com/cultek15
