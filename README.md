@@ -26,21 +26,29 @@ Git & GitHub – version control and project delivery
 
 ## 📂 Project Structure
 data/
+
 ├── raw/                # Original dataset
 
 ├── processed/          # Cleaned and transformed data
 
 notebooks/
+
 ├── 01_eda_superstore.ipynb
 
 powerbi/
+
 ├── Superstore_Dashboard.pbix
 
 exports/
+
 ├── dashboard_screenshots/
+
 │   ├── executive_overview.png
+
 │   ├── product_view.png
+
 │   ├── operations_view.png
+
 │   └── manager_view.png
 
 ## 📊 Dashboard Pages
